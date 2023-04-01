@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148298039711",
+    "project_id": "smartcall-212e5",
+    "storage_bucket": "smartcall-212e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148298039711:android:21d14a76031c39b423bdaa",
+        "android_client_info": {
+          "package_name": "com.example.smartcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148298039711-f3tu6vl5d2nogear1ooa3hq8hc1innl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAupRO_6SwhVW6JzXR8O0Bzutv7cHstXMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148298039711-f3tu6vl5d2nogear1ooa3hq8hc1innl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
